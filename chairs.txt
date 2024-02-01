@@ -1,0 +1,6 @@
+ 
+No of chairs = 10
+
+chairs in good condition = 7
+
+chairs broken = 3
