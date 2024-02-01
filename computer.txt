@@ -1,0 +1,8 @@
+
+Dell = 10
+Mac = 10
+asus = 8
+
+
+
+total = 28
